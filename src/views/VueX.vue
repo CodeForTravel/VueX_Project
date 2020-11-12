@@ -1,6 +1,7 @@
 <template>
  <div>
     <h1>Create Event</h1>
+    <!-- Comment added tor New NewBranch test -->
 
     <div>
       <!-- Mutation example -->
@@ -28,6 +29,26 @@
       <p>{{ todos }}</p>
       <h4>Events :</h4>
       <p>{{ getEvent(1) }}</p>
+
+
+
+
+
+
+
+
+
+  <template>
+    <!-- first changed by AnotherBranch -->
+    <!-- testting AnotherBranch -->
+  </template>
+
+
+
+
+
+
+
  </div>
 </template>
 
