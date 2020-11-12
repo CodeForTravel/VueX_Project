@@ -23,8 +23,19 @@
         <b>{{ attendee.name }}</b>
       </li>
     </ul>
+
+
+<template>
+  <!-- This Template is added for testing NewBranch -->
+</template>
+
+
+
+
+
   </div>
 </template>
+
 <script>
 import { mapState } from "vuex";
 

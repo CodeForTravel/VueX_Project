@@ -1,6 +1,7 @@
 <template>
  <div>
     <h1>Create Event</h1>
+    <!-- Comment added tor New NewBranch test -->
 
     <div>
       <!-- Mutation example -->
